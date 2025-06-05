@@ -21,11 +21,7 @@
 - **依赖**：仅需 Python 标准库（`subprocess`, `argparse`, `os`, `sys`），无需额外安装模块。
 
 ## 使用方法
-1. **克隆仓库**：
-   ```bash
-   git clone <your-repository-url>
-   cd <repository-name>
-   ```
+1. **下载脚本并移动至工作目录**：
 
 2. **确保脚本可执行**：
    ```bash
