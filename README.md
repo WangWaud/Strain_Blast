@@ -108,11 +108,3 @@
 
 ## 贡献
 欢迎提交 issue 或 pull request！请在 GitHub 仓库提出建议或报告问题。
-
-## 许可证
-MIT License
-
-## 联系
-- 作者：Zwang
-- GitHub：`<your-github-username>`
-- 邮箱：`<your-email>`（可选）
